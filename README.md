@@ -2,9 +2,9 @@ pintOS Linux
 
 Um novo sistema operacional totalmente sobre pintos e pirocas e bilaus e nao sei aaaa
 
-pintOS é um sistema operacional (ainda em desenvolvimento) baseado no kernel Linux.
+pintOS é um sistema operacional (ainda em desenvolvimento) baseado no Debian Unstable (sid)
 
-Ele é um projeto nosso (tpr81 e vx775r) com a meta de aprender mais sobre esse pinguim gostoso (e nao sobre pintos ok)
+Ele é um projeto nosso (tpr81 e vx775r) com a meta de aprender mais sobre como funciona esse pinguim delicioso por dentro.
 
 ⚠️AVISO⚠️
 
@@ -13,9 +13,6 @@ Esse sistema operacional NÃO é estável, NÃO é seguro e não nos responsabil
 
 OBJETIVOS
 
-⦁	Aprender como um sistema operacional baseado no kernel Linux funciona
-⦁	Implementar um kernel simples
-⦁	Entender pelo menos o básico desse pinguim
-⦁	Criar alguma coisa funcional
-⦁	Não quebrar tudo (OPCIONAL)
+⦁	Aprender como o Linux funciona
+⦁ Fazer pelo menos uma coisa funcionar nessa vida
 
