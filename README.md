@@ -1,6 +1,6 @@
 pintOS Linux
 
-Um novo sistema operacional totalmente pintado
+Um novo sistema operacional totalmente sobre pintos e pirocas e bilaus e nao sei aaaa
 
 pintOS é um sistema operacional (ainda em desenvolvimento) baseado no kernel Linux.
 
