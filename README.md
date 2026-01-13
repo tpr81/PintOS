@@ -17,3 +17,8 @@ OBJETIVOS
 - Fazer pelo menos uma coisa funcionar nessa vida
 
 <img width="1919" height="1080" alt="Screenshot From 2026-01-13 03-18-23" src="https://github.com/user-attachments/assets/0c8a3e1e-74ca-4032-9f82-d32f429f14f7" />
+
+
+OBSERVAÇÃO: 
+O pintOS atualmente foi testado apenas no ambiente Live.
+Aceitamos contribuições de pessoas que testem o instalador Calamares para ver se ele funciona em um HD ou SSD.
