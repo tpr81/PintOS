@@ -13,6 +13,7 @@ Esse sistema operacional NÃO é estável, NÃO é seguro e não nos responsabil
 
 OBJETIVOS
 
-⦁	Aprender como o Linux funciona
-⦁ Fazer pelo menos uma coisa funcionar nessa vida
+-	Aprender como o Linux funciona
+- Fazer pelo menos uma coisa funcionar nessa vida
 
+<img width="1919" height="1080" alt="Screenshot From 2026-01-13 03-18-23" src="https://github.com/user-attachments/assets/0c8a3e1e-74ca-4032-9f82-d32f429f14f7" />
